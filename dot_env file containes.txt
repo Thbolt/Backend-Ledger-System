@@ -1,0 +1,1 @@
+Mongo_Uri, Jwt_Secret, Client_Id, Client_Secret, Refresh_Token, Email_User are required for .env file
