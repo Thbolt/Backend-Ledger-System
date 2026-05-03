@@ -1,2 +1,2 @@
 # Backend-Ledger-System
-Banking System Ledger - Backend
+Banking Ledger System - Backend
